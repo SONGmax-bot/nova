@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">NOVA STORE</string>
+    <string name="app_name_ar">متجر نوفا</string>
+    <string name="tagline">تسوق أحدث المنتجات والإلكترونيات بأفضل الأسعار</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_categories">الأقسام</string>
+    <string name="nav_cart">السلة</string>
+    <string name="nav_orders">طلباتي</string>
+    <string name="nav_account">حسابي</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Auth -->
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="login_subtitle">مرحبًا بك مجددًا في متجر نوفا</string>
+    <string name="register_title">إنشاء حساب جديد</string>
+    <string name="register_subtitle">انضم إلينا واستمتع بتجربة تسوق حقيقية وآمنة</string>
+    <string name="email_label">البريد الإلكتروني</string>
+    <string name="password_label">كلمة المرور</string>
+    <string name="name_label">الاسم الكامل</string>
+    <string name="phone_label">رقم الهاتف</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="register_button">إنشاء حساب</string>
+    <string name="logout_button">تسجيل الخروج</string>
+    <string name="no_account_prompt">ليس لديك حساب؟ إنشاء حساب جديد</string>
+    <string name="already_have_account">لديك حساب بالفعل؟ تسجيل الدخول</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+
+    <!-- Profile & Account Management -->
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="edit_profile">تعديل البيانات</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="current_password">كلمة المرور الحالية</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_new_password">تأكيد كلمة المرور الجديدة</string>
+    <string name="save_changes">حفظ التعديلات</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="delete_account_confirm">هل أنت متأكد من رغبتك في حذف حسابك نهائياً؟ لن تتمكن من استعادته لاحقاً.</string>
+    <string name="confirm_delete">نعم، احذف حسابي</string>
+    <string name="cancel">إلغاء</string>
+    <string name="user_status">حالة الحساب</string>
+    <string name="member_since">تاريخ الانضمام</string>
+
+    <!-- Products & Store -->
+    <string name="search_hint">ابحث عن المنتجات، الأجهزة، العروض…</string>
+    <string name="featured_products">المنتجات المميزة</string>
+    <string name="all_categories">جميع الأقسام</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="added_to_cart">تمت الإضافة إلى السلة بنجاح</string>
+    <string name="buy_now">شراء الآن</string>
+    <string name="product_details">تفاصيل المنتج</string>
+    <string name="cart_empty">سلة التسوق فارغة حالياً</string>
+    <string name="browse_store">تصفح المنتجات</string>
+    <string name="total_price">الإجمالي</string>
+    <string name="checkout">إتمام الطلب</string>
+    <string name="order_success">تم تأكيد طلبك بنجاح!</string>
+    <string name="no_orders">لا توجد طلبات سابقة حتى الآن</string>
+
+    <!-- API & Settings -->
+    <string name="api_settings">إعدادات الاتصال بالخادم</string>
+    <string name="api_url_label">رابط الـ API الأساسي</string>
+    <string name="api_key_label">مفتاح الـ API (X-API-Key)</string>
+    <string name="api_health_check">فحص حالة الخادم</string>
+    <string name="api_online">الخادم متصل بنجاح</string>
+    <string name="api_offline">تعذر الاتصال بالخادم</string>
+    <string name="server_mode_hint">يتم الاتصال بقاعدة بيانات MySQL الحقيقية عبر API متجر نوفا</string>
+</resources>

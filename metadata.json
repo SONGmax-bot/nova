@@ -1,0 +1,6 @@
+{
+  "name": "NOVA STORE",
+  "description": "متجر نوفا الإلكتروني المتكامل مع نظام مصادقة ومستخدمين آمن وسلة تسوق ومزامنة عبر الـ API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
